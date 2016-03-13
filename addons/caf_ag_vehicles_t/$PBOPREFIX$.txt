@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=caf_ag_vehicles_t
+Pbo Type is: Arma Unknown Addon (no config).
+Sha: 'FEECBBAD55137E339BDE740E1563A318D0E700D8'
+//////</HEADER>//////

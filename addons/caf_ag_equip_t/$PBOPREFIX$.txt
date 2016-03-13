@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=caf_ag_equip_t
+Pbo Type is: Arma Addon
+Sha: '8C4A6A883927E859814575695E79D1219D7811B6'
+//////</HEADER>//////

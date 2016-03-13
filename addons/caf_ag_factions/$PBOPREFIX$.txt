@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=caf_ag_factions
+Pbo Type is: Arma Unknown Addon (no config).
+Sha: '4E9F15388310E3F8D8F705F89844F3098408A603'
+//////</HEADER>//////

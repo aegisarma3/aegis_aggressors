@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=caf_wp_weapons_c
+Pbo Type is: Arma Addon
+Sha: 'FD9FF37702C46847AAFDABA9934B481AE201EA29'
+//////</HEADER>//////

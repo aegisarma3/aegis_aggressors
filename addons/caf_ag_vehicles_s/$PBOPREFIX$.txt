@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=caf_ag_vehicles_s
+Pbo Type is: Arma Addon
+Sha: '90DAA671762E287CFFE92936549FE868BB2E761D'
+//////</HEADER>//////
