@@ -79,8 +79,30 @@ _uniform = [
 _count = count _uniform;
 _this forceAddUniform (_uniform select floor random _count);
 
+if (primaryWeapon _this == "SMA_AAC_MPW_9_Black") then {
+		removeBackpack _this;
+		_this addBackpack "B_Carryall_oli";
 
-// Adicionando vests aleatórios
+		_this addMagazine "caf_AA_rocket";
+		_this addWeapon "caf_strela";
+
+		_this addItemToBackpack "caf_AA_rocket";
+		_this addItemToBackpack "caf_AA_rocket";
+};
+
+
+
+if (primaryWeapon _this == "MMG_01_hex_ARCO_LP_F") then {
+		removeBackpack _this;
+		_this addBackpack "B_Carryall_oli";
+
+		_this addItemToBackpack "150Rnd_93x64_Mag";
+		_this addItemToBackpack "150Rnd_93x64_Mag";
+		_this addItemToBackpack "150Rnd_93x64_Mag";
+};
+
+
+/*// Adicionando vests aleatórios
 removeVest _this;
 _vests = [
 "V_HarnessO_brn",
@@ -95,7 +117,7 @@ _vests = [
 "V_TacVest_oli"
 ];
 _count = count _vests;
-_this addVest (_vests select floor random _count);
+_this addVest (_vests select floor random _count);*/
 
 
 
